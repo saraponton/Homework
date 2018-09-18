@@ -8,6 +8,5 @@ num2 = input(prompt2)
 num1 = float(num1)
 num2 = float(num2)
 
-num3 = (num1/num2)
-num4 = int(math.ceil(num3))
-print("The result of the division is: " + str(num4))
+num3 = int(math.ceil(num1/num2))
+print("The result of the division is: " + str(num3))
