@@ -1,3 +1,3 @@
-prompt = "Please input your name "
-name = input(prompt)
+name = input("Please input your name ")
+
 print("Your name is: " + name)
